@@ -63,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0402-remove-k-digits) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
