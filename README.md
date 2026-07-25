@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1922-count-good-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0040-combination-sum-ii) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
