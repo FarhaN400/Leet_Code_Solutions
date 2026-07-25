@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -81,8 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
