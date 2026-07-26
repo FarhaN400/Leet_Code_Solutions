@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0496-next-greater-element-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0402-remove-k-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0402-remove-k-digits) |
 ## Trie
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0078-subsets) |
