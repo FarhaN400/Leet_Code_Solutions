@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0216-combination-sum-iii) |
+| [0322-coin-change](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0322-coin-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0322-coin-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
