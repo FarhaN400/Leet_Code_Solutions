@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1922-count-good-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
