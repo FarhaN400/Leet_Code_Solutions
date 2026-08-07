@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0402-remove-k-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0907-sum-of-subarray-minimums) |
