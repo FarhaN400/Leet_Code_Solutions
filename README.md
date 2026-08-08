@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0402-remove-k-digits) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0064-minimum-path-sum) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1922-count-good-numbers) |
 ## Backtracking
