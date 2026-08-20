@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0496-next-greater-element-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0496-next-greater-element-i) |
+| [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 ## Stack
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0455-assign-cookies) |
+| [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -177,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3536-maximum-product-of-two-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3536-maximum-product-of-two-digits) |
