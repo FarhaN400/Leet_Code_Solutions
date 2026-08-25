@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0162-find-peak-element](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0213-house-robber-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0300-longest-increasing-subsequence) |
