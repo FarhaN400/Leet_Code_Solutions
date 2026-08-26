@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0547-number-of-provinces) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -347,4 +349,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
