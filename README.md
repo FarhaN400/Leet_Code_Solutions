@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0216-combination-sum-iii) |
+| [0287-find-the-duplicate-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0322-coin-change) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -357,4 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0547-number-of-provinces) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
