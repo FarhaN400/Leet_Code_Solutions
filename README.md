@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0496-next-greater-element-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 ## Stack
 |  |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
