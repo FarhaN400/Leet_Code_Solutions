@@ -12,28 +12,14 @@ class Solution {
         int n = grid[0].length;
         int[][] vis = new int[m][n];
         Queue<Pair> q = new LinkedList<>();
-        for(int j = 0 ; j < n ; j++){
-            if(grid[0][j] == 1){
-                vis[0][j] = 1;
-                q.offer(new Pair(0,j));
-            }
-        }
-        for(int j = 0 ; j < n ; j++){
-            if(grid[m-1][j] == 1){
-                vis[m-1][j] = 1;
-                q.offer(new Pair(m-1,j));
-            }
-        }
-        for(int i = 0 ; i < m ; i++){
-            if(grid[i][0] == 1){
-                vis[i][0] = 1;
-                q.offer(new Pair(i,0));
-            }
-        }
-        for(int i = 0 ; i < m ; i++){
-            if(grid[i][n-1] == 1){
-                vis[i][n-1] = 1;
-                q.offer(new Pair(i,n-1));
+        for(int i = 0 ; i < m ;i++){
+            for(int j = 0 ; j < n ; j++){
+                if(i == 0 || j == 0 || i == m - 1 || j == n - 1){
+                    if(grid[i][j] == 1){
+                        q.offer(new Pair(i , j));
+                        vis[i][j] = 1;
+                    }
+                }
             }
         }
         int[] drow = {-1,0,1,0};
