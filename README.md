@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1020-number-of-enclaves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1020-number-of-enclaves) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
