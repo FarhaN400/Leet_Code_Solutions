@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0496-next-greater-element-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0127-word-ladder) |
@@ -436,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
