@@ -27,7 +27,6 @@ class Solution {
         if(t >= arr[i]){
             Pick = helper(i-1 , t - arr[i] , arr , dp);
         }
-        dp[i][t] =  Pick + nPick;
-        return dp[i][t];
+        return dp[i][t] =  Pick + nPick;
     }
 }
