@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0120-triangle) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
