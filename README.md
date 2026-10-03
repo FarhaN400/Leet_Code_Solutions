@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Tree
