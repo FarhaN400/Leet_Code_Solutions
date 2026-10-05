@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0198-house-robber) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0268-missing-number) |
