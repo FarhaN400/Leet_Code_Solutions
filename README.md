@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3536-maximum-product-of-two-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
 |  |
 | ------- |
