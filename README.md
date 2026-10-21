@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search Tree
 |  |
@@ -506,4 +510,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0204-count-primes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
