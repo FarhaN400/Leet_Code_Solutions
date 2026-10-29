@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0260-single-number-iii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0268-missing-number) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Bidirectional Search
 |  |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
