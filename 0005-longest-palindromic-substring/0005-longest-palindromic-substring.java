@@ -14,14 +14,9 @@ class Solution {
         return ans;
     }
     public String helper(String s , int l , int r){
-        String ans = "";
         while(l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)){
-            String temp = s.substring(l , r + 1);
-            if(temp.length() > ans.length()){
-                ans = temp;
-            }
             l--;r++;
         }
-        return ans;
+        return s.substring(l+1 , r);
     }
 }
