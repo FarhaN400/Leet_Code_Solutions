@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0496-next-greater-element-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
