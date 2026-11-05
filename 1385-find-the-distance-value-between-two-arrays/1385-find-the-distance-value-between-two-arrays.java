@@ -11,7 +11,7 @@ class Solution {
                 int diff = Math.abs(a - b);
                 if(diff <= d){
                     check = false;
-                    //break;
+                    break;
                 }
             }
             if(check){
