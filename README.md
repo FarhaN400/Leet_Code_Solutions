@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2747-count-zero-request-servers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
+| [2747-count-zero-request-servers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2747-count-zero-request-servers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3536-maximum-product-of-two-digits](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [2747-count-zero-request-servers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bracket Sequences
 |  |
