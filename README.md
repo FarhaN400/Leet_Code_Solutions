@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
+| [1267-count-servers-that-communicate](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Knapsack Problem
 |  |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
@@ -564,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Manacher
 |  |
 | ------- |
