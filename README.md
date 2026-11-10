@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
