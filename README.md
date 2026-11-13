@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2747-count-zero-request-servers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3693-climbing-stairs-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## String
 |  |
 | ------- |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [2747-count-zero-request-servers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bracket Sequences
 |  |
@@ -586,4 +591,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
