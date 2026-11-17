@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Trie
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/FarhaN400/Leet_Code_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
